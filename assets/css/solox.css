@@ -16442,7 +16442,7 @@ body.boxed-wrapper .page-wrapper {
     height: 100%;
     left: 0;
     top: 0;
-    background-image: linear-gradient(90deg, rgb(222, 150, 141) 1%, rgba(222, 150, 141, 0.6) 100%);
+    background: #174d30bd;
     content: "";
 }
 
